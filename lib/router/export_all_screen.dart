@@ -1,0 +1,1 @@
+export 'package:tank_battle_city_game/features/main_screen/view/main_screen.dart';
